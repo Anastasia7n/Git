@@ -7,3 +7,6 @@ def prod(x, y):
 
 
 
+def remain(w,u)
+    return w*u
+
