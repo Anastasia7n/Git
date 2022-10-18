@@ -8,6 +8,6 @@ def prod(x, y):
 def substract(x, y):
     return x-y
 
-def remain(w,u)
+def remain(w,u):
     return w*u
 
